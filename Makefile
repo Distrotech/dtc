@@ -25,7 +25,7 @@ LEX = flex
 
 INSTALL = /usr/bin/install
 DESTDIR =
-PREFIX = $(HOME)
+PREFIX = /usr
 BINDIR = $(PREFIX)/bin
 LIBDIR = $(PREFIX)/lib
 INCLUDEDIR = $(PREFIX)/include
